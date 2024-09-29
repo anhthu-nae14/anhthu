@@ -94,3 +94,5 @@ print("Accuracy:", accuracy_score(y_test, y_pred))
 print("Classification Report:")
 print(classification_report(y_test, y_pred))
 
+![alt text](https://github.com/anhthu-nae14/anhthu/blob/main/bai1.jpn.png)
+![alt text](https://github.com/anhthu-nae14/anhthu/blob/main/bai2.jpn.png)
