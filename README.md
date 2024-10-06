@@ -14,4 +14,5 @@ Câu 3: Hiển thị kết quả lên
 ![alt](web.jpg)
 
 Câu 4: So sánh
+
 ![alt](sosanh.jpg)
