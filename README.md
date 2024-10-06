@@ -11,6 +11,7 @@ bài 1 sử dụng 2 thuật toán Bernoulli Naive Bayes và Multinomial Naive B
 bài 2 sử dụng thuật toán Gaussian Naive Bayes
 
 Câu 3: Hiển thị kết quả lên 
-
+![alt](web.jpg)
 
 Câu 4: So sánh
+![alt](sosanh.jpg)
